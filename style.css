@@ -1,0 +1,19 @@
+.texts{
+    position: absolute;
+    left: 100px;
+    top:150px;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  
+    
+}
+
+.new{
+    margin-left: 50px;
+}
+.all{
+    margin-right: 1000px;
+    margin-top: 50px;
+}

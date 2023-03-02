@@ -1,0 +1,15 @@
+.add {
+    position: absolute;
+    left: 450px;
+    width: 400px;
+    top: 150px;
+    border: solid;
+    padding: 20px;
+
+}
+.save{
+   text-align: center;
+}
+.id{
+    background-color: silver;
+}
